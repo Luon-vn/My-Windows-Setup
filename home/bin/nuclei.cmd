@@ -1,0 +1,1 @@
+@"%~dp0\..\nuclei.exe" -no-color -u %*
